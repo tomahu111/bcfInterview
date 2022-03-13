@@ -1,0 +1,3 @@
+﻿  matrixCalculator.cpp
+C:\Users\Dom\source\repos\matrixCalculator\matrixCalculator\matrixCalculator.cpp(74,44): warning C4018: '<': signed/unsigned mismatch
+  matrixCalculator.vcxproj -> C:\Users\Dom\source\repos\matrixCalculator\Debug\matrixCalculator.exe

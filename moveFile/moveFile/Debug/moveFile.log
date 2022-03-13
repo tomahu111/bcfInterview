@@ -1,0 +1,4 @@
+﻿  moveFile.cpp
+C:\Users\Dom\source\repos\moveFile\moveFile\moveFile.cpp(156,40): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Dom\source\repos\moveFile\moveFile\moveFile.cpp(163,40): warning C4293: '<<': shift count negative or too big, undefined behavior
+  moveFile.vcxproj -> C:\Users\Dom\source\repos\moveFile\bin\Win32Debug\moveFile.exe
