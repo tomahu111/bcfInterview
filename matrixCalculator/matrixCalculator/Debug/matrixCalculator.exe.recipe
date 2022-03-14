@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Dom\source\repos\matrixCalculator\Debug\matrixCalculator.exe</FullPath>
+      <FullPath>C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\bin\Win32Debug\matrixCalculator.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,3 +1,19 @@
 ﻿  matrixCalculator.cpp
-C:\Users\Dom\source\repos\matrixCalculator\matrixCalculator\matrixCalculator.cpp(74,44): warning C4018: '<': signed/unsigned mismatch
-  matrixCalculator.vcxproj -> C:\Users\Dom\source\repos\matrixCalculator\Debug\matrixCalculator.exe
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(285,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(297,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(320,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(343,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(427,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(435,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(503,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(524,62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(524,98): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(557,62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(557,98): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(588,62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(588,98): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(607,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\matrixCalculator\matrixCalculator.cpp(621,32): warning C4018: '<': signed/unsigned mismatch
+  matrixCalculator.vcxproj -> C:\Users\Dom\source\repos\bcfInterview\matrixCalculator\bin\Win32Debug\matrixCalculator.exe
